@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Kirushanth
 
-I’m currently working on AI-powered applications and full-stack projects  
+Computer Science undergraduate building full-stack projects with React, Node.js, and Spring Boot
 
-I’m currently learning advanced backend development and system design  
+Currently strengthening my backend development fundamentals and exploring cloud deployment
 
-I’m looking to collaborate on innovative web or AI-based projects  
+Comfortable containerizing applications with Docker; growing into CI/CD and cloud infrastructure
 
-I’m looking for help with scaling applications and best engineering practices  
+Working on a mobile app that integrates third-party AI APIs (LLaMA, Grok)
 
-Ask me about React, Node.js, Spring Boot, or building full-stack apps  
+Open to collaborating on web or mobile projects, and learning from more experienced developers
 
-How to reach me: [LinkedIn](https://www.linkedin.com/in/kirushanth-sathiyaseelan) | [Portfolio](https://portfolio-three-cyan-34.vercel.app)
+Ask me about React, Node.js, Spring Boot, or full-stack app development
 
 
 ⭐ Always learning, building, and improving.
